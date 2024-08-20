@@ -1,0 +1,12 @@
+selenium==4.23.1
+google-cloud-aiplatform==1.62.0
+pandas==2.2.2
+selenium==4.23.1
+tqdm==4.66.4
+transformers==4.41.2
+torch 
+torchvision 
+torchaudio
+streamlit
+FPDF
+
